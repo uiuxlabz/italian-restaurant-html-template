@@ -24,6 +24,10 @@ A premium, framework-free HTML template for authentic Italian restaurants. Built
 - **Menu Filtering** — Category tabs filter menu cards on the Menu page
 - **20 Images** — Stock photos included in `assets/img/`
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System
 
 - **Typography:** Playfair Display (headings) + Lato (body) via Google Fonts
